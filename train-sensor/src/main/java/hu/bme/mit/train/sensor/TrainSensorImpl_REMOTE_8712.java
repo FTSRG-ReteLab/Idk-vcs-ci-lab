@@ -28,10 +28,4 @@ public class TrainSensorImpl implements TrainSensor {
 
 }
 
-/*<<<<<<< HEAD
-// merge conflict 1
-=======
 //merge conflict 2
->>>>>>> branch-B*/
-
-//merge conflict resolved
