@@ -27,3 +27,5 @@ public class TrainSensorImpl implements TrainSensor {
 	}
 
 }
+
+// merge conflict 1
