@@ -8,6 +8,7 @@ public class TrainControllerImpl implements TrainController {
 	private int referenceSpeed = 0;
 	private int speedLimit = 0;
 
+	Thread thread;
 	public TrainControllerImpl() {
 		thread = new Thread() {
 			public void run() {
